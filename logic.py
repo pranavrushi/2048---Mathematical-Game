@@ -1,7 +1,7 @@
 #
-# CS1010FC --- Programming Methodology
+# 2048 - Mathematical Game
 #
-# Mission N Solutions
+# Pranav Rushi T
 #
 # Note that written answers are commented out to allow us to run your
 # code easily while grading your problem set.
